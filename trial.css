@@ -1,0 +1,93 @@
+.pic{
+	
+	width: 100%;
+
+}
+img{
+	height: 450px;
+	width: 102%;
+}
+.navbar ul{
+	color: #f7e4ed;
+	font-family: 'Cabin Sketch', cursive;
+}
+.menu{
+	width: 100%;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color:  #3b0817;
+}
+.content{
+	background-color: #ffe7a6;
+
+}
+
+.mix{
+	background-color: #edbbca;
+	padding-top: 3%;
+	padding-bottom: 1%;
+}
+
+.write{
+
+	padding-top: 3%;
+	align-content: justify;
+	align-items: center;
+}
+
+h1{
+		padding-top: 15%;
+		font-family: 'Satisfy', cursive;
+		font-size: 45px;
+		padding-bottom: 10%;
+
+
+}
+a{
+	color: #f7e4ed;
+}
+a:hover{
+	color: white;
+}
+.link{
+	transition: all 0.5s;
+}
+.link:hover{
+	background-color: #db517f;
+}
+p{
+			font-family: 'Oswald', sans-serif;
+			font-size: 18px;
+}
+.index{
+	  font-family: 'Cabin Sketch', cursive;
+	  font-size: 22px;
+}
+i{
+	color: #3b0817;
+	font-size: 50px;
+
+}
+i:hover{
+	color: #db517f;
+}
+.head h1{
+	font-family: 'Satisfy', cursive;
+	font-size: 70px;
+	color: #2f6135;
+	padding-top: 25%;
+
+
+}
+#home{
+	color: white;
+}
+.selected{
+	background-color: #db517f;
+}
+
+ul{
+			font-family: 'Oswald', sans-serif;
+			font-size: 18px;
+	
+}
